@@ -59,7 +59,7 @@ I’m here to learn and improve!
 
 ## 🏁 Author
 
-Maintained by **Rapo**
+Maintained by **Ramprasad**
 
 ---
 
